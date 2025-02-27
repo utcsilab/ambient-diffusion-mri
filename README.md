@@ -1,6 +1,6 @@
-## Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data
+## Ambient Diffusion Posterior Sampling | ICLR 2025
 
-This repository hosts the official PyTorch implementation of the paper: [Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data](https://doi.org/10.48550/arXiv.2403.08728).
+This repository hosts the official source code for the paper: [Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data](https://openreview.net/forum?id=qeXcMutEZY).
 
 
 Authored by: Asad Aali, Giannis Daras, Brett Levac, Sidharth Kumar, Alexandros G. Dimakis, Jonathan I. Tamir
